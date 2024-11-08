@@ -14,7 +14,7 @@
       "value": "食用の石"
     },
     "minecraft:use_modifiers": {
-      "use_duration": 1.6,
+      "use_duration": 0.5,
       "movement_modifier": 0.35
     },
     "minecraft:use_animation": "eat",

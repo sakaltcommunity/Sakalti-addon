@@ -1,0 +1,19 @@
+{
+  "format_version": 1,
+  "header": {
+    "description": "カオス！",
+    "name": "Sakalti mod",
+    "uuid": "5f4175c0-9b00-11ef-d902-0d9d4bad5df9",
+    "version": [0, 0, 1],
+    "min_engine_version": [1, 21, 41]
+  },
+  "modules": [
+    {
+      "description": "カオス！",
+      "type": "resources",
+      "uuid": "5f454650-9b00-11ef-c539-ef23f9d2b0d5",
+      "version": [0, 0, 1],
+      "min_engine_version": [1, 21, 41]
+    }
+  ]
+}

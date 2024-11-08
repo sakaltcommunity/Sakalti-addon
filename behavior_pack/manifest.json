@@ -1,0 +1,19 @@
+{
+  "format_version": 1,
+  "header": {
+    "description": "Sakalti mod",
+    "name": "Sakaltimod",
+    "uuid": "d90f3640-9b00-11ef-cdbf-19bf3211a8ff",
+    "version": [0, 0, 1],
+    "min_engine_version": [1, 21, 41]
+  },
+  "modules": [
+    {
+      "description": "Sakalti mod",
+      "type": "data",
+      "uuid": "d91291a0-9b00-11ef-f5ee-2f41e629eaf1",
+      "version": [0, 0, 1],
+      "min_engine_version": [1, 21, 41]
+    }
+  ]
+}

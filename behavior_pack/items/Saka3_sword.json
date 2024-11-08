@@ -1,0 +1,24 @@
+{
+  "format_version": "1.21.41",
+  "minecraft:item": {
+    "description": {
+      "identifier": "saka:saka3_sword",
+      "menu_category":{
+        "group":"itemGroup.name.sword",
+        "category":"equipment"
+      }
+    },
+
+    "components": {
+      "minecraft:max_stack_size":1,
+      "minecraft:hand_equipped":true,
+      "minecraft:enchantable":{"value":20,"slot":"sword"},
+      "minecraft:icon":"saka_sword3",
+      "minecraft:display_name":{
+        "value": "坂の剣 lv3"
+      },
+       "minecraft:durability": 2022,
+       "minecraft:damage": 25
+    }
+  }
+}

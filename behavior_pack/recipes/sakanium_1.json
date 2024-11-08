@@ -15,7 +15,7 @@
                 "item": "minecraft:dirt"
             },
             "B":{
-                "item":"manaita:diamond"
+                "item":"minecraft:wheat"
             }
         },
         "result": {

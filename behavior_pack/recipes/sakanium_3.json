@@ -1,0 +1,26 @@
+{
+    "format_version": "1.21.41",
+    "minecraft:recipe_shaped": {
+        "description": {
+            "identifier": "saka:sakanium_2"
+        },
+        "tags": ["crafting_table"],
+        "pattern": [
+            "BBB",
+            "BAB",
+            "BBB"
+        ],
+        "key": {
+            "A": {
+                "item": "minecraft:emerald"
+            },
+            "B":{
+                "item":"saka:sakanium_2"
+            }
+        },
+        "result": {
+            "item": "saka:sakanium_3",
+            "count": 4
+        }
+    }
+}

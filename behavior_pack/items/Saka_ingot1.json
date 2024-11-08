@@ -1,0 +1,12 @@
+{
+  "format_version": "1.21.41",
+  "minecraft:item": {
+    "description": {
+      "identifier": "saka:sakanium_1",
+      "category": "item"
+    },
+    "components": {
+      "minecraft:icon": "saka:sakanuim_1"
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+    "format_version": "1.21.41",
+    "minecraft:recipe_shaped": {
+        "description": {
+            "identifier": "saka:sakanium_1"
+        },
+        "tags": ["crafting_table"],
+        "pattern": [
+            "AAA",
+            "ABA",
+            "AAA"
+        ],
+        "key": {
+            "A": {
+                "item": "minecraft:dirt"
+            },
+            "B":{
+                "item":"manaita:diamond"
+            }
+        },
+        "result": {
+            "item": "saka:sakanium_1",
+            "count": 8
+        }
+    }
+}
